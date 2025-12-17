@@ -1,0 +1,32 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
+vendor/
+.venv/
+__pycache__/
+
+# Build
+dist/
+build/
+target/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Logs
+*.log
+logs/
+
+# Environment
+.env
+.env.local
